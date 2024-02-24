@@ -1,9 +1,9 @@
 <h1 align="center"> 👋 I'm Giga Berdzenishvili</h1>
 <h3 align="center">Exploring new technologies and pushing boundaries</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **React,Redux,JavaScript**
+- 💬 Ask me about **React,Redux,JS,TS**
 
 - 📫 How to reach me **berdzenishviligiga.dev@gmail.com**
 
